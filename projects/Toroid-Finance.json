@@ -1,0 +1,16 @@
+{
+  "name": "Toroid Finance",
+  "slug": "toroid-finance",
+  "date": "2022-08-05",
+  "highlight": "Toroid Finance is a decentralized exchange featuring low slippage stableswaps.",
+  "logo": "/img/Toroid-Finance.svg",
+  "tags": ["defi", "dex", "swap", "trading"],
+  "status": "live",
+  "website": "https://toroid.finance",
+  "twitter": "https://twitter.com/ToroidFinance",
+  "summary": "Toroid Finance is a decentralized exchange which facilitates low-slippage stablecoin trades on Avalanche. Toroids are multi-layered single vectored liquidity pools. Every coin in the pool represents one layer, whereas the single vector equals the asset type.",
+  "telegram": "https://t.me/ToroidFinanceChannel",
+  "discord": "https://discord.com/invite/AUZyJJV4QC",
+  "docs":"https://toroid-finance.gitbook.io/",
+  "github":"https://github.com/ToroidFinance"
+}
